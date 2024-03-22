@@ -3,20 +3,6 @@
 Este é um projeto Python para processamento de dados em arquivos Excel.
 
 
-
-## Estrutura de Pastas
-
-O projeto está organizado da seguinte forma:
-
-
-Claro, aqui está um exemplo de README.md para o projeto que discutimos:
-
-markdown
-Copy code
-# Meu Projeto
-
-Este é um projeto Python para processamento de dados em arquivos Excel.
-
 ## Estrutura de Pastas
 
 O projeto está organizado da seguinte forma:
